@@ -1,5 +1,5 @@
 This project is a fork of https://github.com/chenjianjx/wsdl2html
-(started after close PR: https://github.com/chenjianjx/wsdl2html/pull/9)
+(started after closed PR: https://github.com/chenjianjx/wsdl2html/pull/9)
 
 This fork might be useful for you if you use JAX-WS as it autoincludes descriptions in generated html based on your javadoc classes. If you include the comments directly in the WSDL this approach is not useful for you.
 
